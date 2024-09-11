@@ -1,0 +1,11 @@
+body {
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
+    color: #ffffff;
+}
+.sombrero-paja-portada {
+    height: 90vh;
+}
+.miembros-index {
+    border-left: 1px solid #ffffff;
+    padding-left: 15px;
+}
